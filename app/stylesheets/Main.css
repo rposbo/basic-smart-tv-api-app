@@ -1,0 +1,26 @@
+/* Layout */
+body
+{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	width: 960px;
+	height: 540px;
+	background-color: #fff;
+}
+
+#listing { 
+	width:100%;
+}
+
+#listing li {
+	width:275px;
+	float:left;
+	text-align:center;
+	margin:0;
+}
+
+#listing li a {
+	display:block;
+	text-decoration:none;	
+}
